@@ -2,4 +2,4 @@ Resolusi
 - Konsisten menyelesaikan kuliah hari itu di hari itu juga
 - Konsisten sholat dhuha
 - Belajar coding python
-- Membaca buku setiap hari
+- membuat web pribadi
