@@ -1,3 +1,6 @@
 Rencana Dzaki
 - PHP
+  * ES6
+  * Framework
 - Java Sript
+- python
